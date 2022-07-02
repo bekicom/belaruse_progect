@@ -6,7 +6,8 @@ export function Main(){
 
     return(
         <div className="main">
-            
+            <p>salom</p>
+
 
         </div>
     )
